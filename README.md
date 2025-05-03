@@ -1,24 +1,34 @@
 # Hi there, I'm Lucas Mota 👋
 
-I'm an experienced Full Stack Developer with over 4 years of experience.
+## 🚀 About Me
 
-Throughout my career as a Full Stack Developer, I have helped my clients get their projects off the ground, promoting integration and scalability in modern applications while ensuring efficiency and functionality.
+I'm a passionate Software Developer with over 5 years of experience and a keen interest in open source, automation, and building robust software solutions. 
 
-I have created institutional websites, landing pages for courses and products, and complete systems (both back-end and front-end) using various technologies, including: Node.js, JavaScript (ES6+), TypeScript, React, Express, Fastify, Next.js, PostgreSQL, MongoDB, Git, Tailwind CSS, Docker, and more.
-
-I love creating dynamic and scalable web applications that provide a great user experience.
+I love exploring new technologies, contributing to projects, and sharing knowledge with the community.
 
 <!--
-**lmdvlpr/lmdvlpr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on:  
+  - A secret project 🤫
+- 🌱 I’m currently learning:  
+  - AI and automation with n8n 🤖
+- 💬 Ask me about:  
+  - Full-stack development or anything tech!
+- 📫 How to reach me:
+  - [E-mail](mailto:contato.lukamota@gmail.com) 
+  - [LinkedIn](https://www.linkedin.com/in/lmdvlpr)
+  - [X (Twitter)](https://x.com/lmdvlpr)
+- ⚡ Fun fact:  
+  - I love bikes! 🚴‍♂️
   -->
+
+## 🛠️ Languages & Tools
+
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,ts,express,react,nextjs,vite,tailwind,mysql,postgres,mongodb,sqlite,prisma,git,github,linux,docker,postman&perline=10" />
+
+## 📈 GitHub Stats
+
+![lmdvlpr's GitHub stats](https://github-readme-stats.vercel.app/api?username=lmdvlpr&show_icons=true&theme=radical)
+
+---
+
+Thanks for stopping by and feel free to connect with me! 😉
