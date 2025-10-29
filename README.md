@@ -2,24 +2,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate Software Developer with over 5 years of experience and a keen interest in open source, automation, and building robust software solutions. 
-
-I love exploring new technologies, contributing to projects, and sharing knowledge with the community.
-
-<!--
-- 🔭 I’m currently working on:  
-  - A secret project 🤫
-- 🌱 I’m currently learning:  
-  - AI and automation with n8n 🤖
-- 💬 Ask me about:  
-  - Full-stack development or anything tech!
-- 📫 How to reach me:
-  - [E-mail](mailto:contato.lukamota@gmail.com) 
-  - [LinkedIn](https://www.linkedin.com/in/lmdvlpr)
-  - [X (Twitter)](https://x.com/lmdvlpr)
-- ⚡ Fun fact:  
-  - I love bikes! 🚴‍♂️
-  -->
+Full Stack Developer (Node.js · TypeScript · React · PostgreSQL). Experienced in building scalable REST APIs (Express/Fastify + Prisma), deploying containerized services (Docker, GitHub Actions) and crafting responsive UIs with React and Tailwind CSS. Delivered production APIs and apps with automated tests, documentation (OpenAPI/Swagger) and CI/CD pipelines.
 
 ## 🛠️ Languages & Tools
 
