@@ -1,6 +1,6 @@
 # Hi there, I'm Lucas Mota 👋
 
-## 🚀 About Me
+## 👨‍🦳 About Me
 
 Full Stack Developer (Node.js · TypeScript · React · PostgreSQL). Experienced in building scalable REST APIs (Express/Fastify + Prisma), deploying containerized services (Docker, GitHub Actions) and crafting responsive UIs with React and Tailwind CSS. Delivered production APIs and apps with automated tests, documentation (OpenAPI/Swagger) and CI/CD pipelines.
 
